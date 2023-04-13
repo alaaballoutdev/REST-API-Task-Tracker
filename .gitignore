@@ -1,3 +1,5 @@
 /.vs
 /TaskTrackerApp/.vs
 /TaskTrackerApp/TaskTrackerApp.csproj.user
+/TaskTrackerApp/obj
+/TaskTrackerApp/bin
