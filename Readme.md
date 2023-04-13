@@ -1,5 +1,5 @@
 # Task Tracker Rest API 
-The REST API for the Task Tracker App provides a user-friendly interface for seamless communication between the front-end and back-end components of the application. This API enables the user to easily perform CRUD (Create, Read, Update, Delete) operations on tasks, such as adding new tasks, updating their status, and deleting tasks. It also allows for the retrieval of tasks from the database based on different parameters,such as sorted/unsorted, ascending/descending and given interval of datetime.
+The REST API for the Task Tracker App provides a user-friendly interface for seamless communication between the front-end and back-end components of the application. This API enables the user to easily perform CRUD (Create, Read, Update, Delete) operations on tasks, such as adding new tasks, updating their status, and deleting tasks. It also allows for the retrieval of tasks from the database based on different parameters, such as sorted/unsorted, ascending/descending and given interval of datetime.
 
 
 ## Table of contents
